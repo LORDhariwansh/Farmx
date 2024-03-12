@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- android_small___2 strings -->
+
+	<string name="app_name">logo page</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="login_string">LOGIN</string>
+	<string name="register_string">REGISTER</string>
+	<string name="framx_login_string">FRAMX LOGIN </string>
+	<string name="username_string">USERNAME</string>
+	<string name="password_string">PASSWORD</string>
+
+	<string name="crop_type_string">CROP TYPE</string>
+	<string name="government_scheme_string">GOVERNMENT SCHEME</string>
+	<string name="text_string"></string>
+	<string name="irrigation_guide_string">IRRIGATION GUIDE</string>
+	<string name="text_ek1_string"></string>
+	<string name="ferti_string">FERTI</string>
+	<string name="ferti_ek1_string">FERTI</string>
+	<string name="ferti_ek2_string">FERTI</string>
+    <string name="search">Search</string>
+	<string name="search_here">Search here</string>
+    <string name="password">PASSWORD</string>
+	<string name="register">REGISTER</string>
+</resources>
